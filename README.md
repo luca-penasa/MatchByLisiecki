@@ -1,3 +1,13 @@
+ADDITIONAL NOTES
+________________
+
+This repo features some mino chnges to the original version.
+
+- It uses cmake For managing th project
+- Some missing #include was added for being linux-compilable
+
+
+
 *********************************************************************
 *               DOCUMENTATION FOR MATCH VERSION 2.3.1               *
 *                         AND AUTOCOMP 2.3                          *
