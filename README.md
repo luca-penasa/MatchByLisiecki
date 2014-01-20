@@ -1,10 +1,10 @@
 ADDITIONAL NOTES
 ________________
 
-This repo features some mino chnges to the original version.
+This repo features some minor changes to the original version.
 
-- It uses cmake For managing th project
-- Some missing #include was added for being linux-compilable
+- It uses cmake ror managing the compilation
+- Some missing #include were added for being linux-compilable
 
 
 
