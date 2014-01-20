@@ -3,7 +3,7 @@ ________________
 
 This repo features some minor changes to the original version.
 
-- It uses cmake ror managing the compilation
+- It uses cmake for managing the compilation
 - Some missing #include were added for being linux-compilable
 
 
