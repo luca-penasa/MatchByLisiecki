@@ -1,0 +1,35 @@
+Match 2.0 (Lisiecki and Lisiecki, 2002) 
+
+---Configuration---
+nomatch 0.5
+speedchange 0.1
+speedpenalty 0.5
+gappenalty 100
+gapsizemultiplier 24.5614
+tiepenalty 10
+reversetiepenalty 0
+begin1 0
+end1 28.5
+numintervals1 1400
+begin2 0
+end2 700
+numintervals2 1400
+normbegin1 NaN
+normbegin2 NaN
+normend1 NaN
+normend2 NaN
+tiefile test.tie
+#series1gaps is not set.
+#series2gaps is not set.
+matchfile test.match
+#matrixfile is not set.
+logfile test.log
+#mean1 is not set.
+#mean2 is not set.
+#stddev1 is not set.
+#stddev2 is not set.
+series1 b607
+series2 LR04
+speeds 5:2 2:1 5:3 3:2 7:5 4:3 5:4 8:7 1:1 7:8 4:5 3:4 5:7 2:3 3:5 1:2 2:5
+targetspeed 1:1
+

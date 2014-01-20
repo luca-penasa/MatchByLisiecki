@@ -1,0 +1,175 @@
+Match 2.0 (Lisiecki and Lisiecki, 2002) 
+
+---Configuration---
+nomatch 2000
+speedchange 120
+speedpenalty 120
+gappenalty 400
+gapsizemultiplier 0.983789
+tiepenalty 6000
+reversetiepenalty 0
+begin1 0.05
+end1 49.4
+numintervals1 300
+begin2 0.05
+end2 48.6
+numintervals2 300
+normbegin1 NaN
+normbegin2 NaN
+normend1 NaN
+normend2 NaN
+#tiefile is not set.
+#series1gaps is not set.
+#series2gaps is not set.
+matchfile example2.match
+#matrixfile is not set.
+logfile example2.log
+#mean1 is not set.
+#mean2 is not set.
+#stddev1 is not set.
+#stddev2 is not set.
+series1 r929d.txt m929d.txt
+series2 r929a.txt m929a.txt
+speeds 3:1 5:2 2:1 5:3 3:2 4:3 5:4 1:1 4:5 3:4 2:3 3:5 1:2 2:5 1:3
+targetspeed 1:1
+
+---Series Information---
+r929d.txt: 124 data points.
+r929d.txt: 178 data points.
+r929d.txt: 161 data points.
+r929d.txt: 180 data points.
+r929d.txt: 168 data points.
+r929d.txt: 86 data points.
+
+m929d.txt: 211 data points.
+m929d.txt: 294 data points.
+m929d.txt: 290 data points.
+m929d.txt: 309 data points.
+m929d.txt: 292 data points.
+m929d.txt: 244 data points.
+
+r929a.txt: 83 data points.
+r929a.txt: 168 data points.
+r929a.txt: 176 data points.
+r929a.txt: 177 data points.
+r929a.txt: 178 data points.
+r929a.txt: 170 data points.
+r929a.txt: 185 data points.
+r929a.txt: 178 data points.
+r929a.txt: 177 data points.
+r929a.txt: 176 data points.
+r929a.txt: 186 data points.
+r929a.txt: 179 data points.
+r929a.txt: 170 data points.
+r929a.txt: 146 data points.
+r929a.txt: 171 data points.
+r929a.txt: 100 data points.
+r929a.txt: 153 data points.
+r929a.txt: 151 data points.
+r929a.txt: 117 data points.
+r929a.txt: 184 data points.
+r929a.txt: 167 data points.
+r929a.txt: 184 data points.
+r929a.txt: 183 data points.
+r929a.txt: 181 data points.
+r929a.txt: 177 data points.
+r929a.txt: 163 data points.
+r929a.txt: 163 data points.
+r929a.txt: 125 data points.
+r929a.txt: 182 data points.
+r929a.txt: 180 data points.
+r929a.txt: 179 data points.
+r929a.txt: 145 data points.
+r929a.txt: 178 data points.
+r929a.txt: 177 data points.
+r929a.txt: 178 data points.
+r929a.txt: 180 data points.
+r929a.txt: 183 data points.
+r929a.txt: 171 data points.
+r929a.txt: 160 data points.
+r929a.txt: 156 data points.
+r929a.txt: 119 data points.
+r929a.txt: 113 data points.
+r929a.txt: 176 data points.
+r929a.txt: 132 data points.
+r929a.txt: 74 data points.
+r929a.txt: 180 data points.
+r929a.txt: 175 data points.
+r929a.txt: 182 data points.
+r929a.txt: 179 data points.
+r929a.txt: 184 data points.
+r929a.txt: 166 data points.
+r929a.txt: 84 data points.
+r929a.txt: 119 data points.
+r929a.txt: 5 data points.
+r929a.txt: 5 data points.
+
+m929a.txt: 83 data points.
+m929a.txt: 168 data points.
+m929a.txt: 178 data points.
+m929a.txt: 176 data points.
+m929a.txt: 178 data points.
+m929a.txt: 146 data points.
+m929a.txt: 184 data points.
+m929a.txt: 181 data points.
+m929a.txt: 183 data points.
+m929a.txt: 175 data points.
+m929a.txt: 187 data points.
+m929a.txt: 144 data points.
+m929a.txt: 172 data points.
+m929a.txt: 17 data points.
+m929a.txt: 185 data points.
+m929a.txt: 100 data points.
+m929a.txt: 152 data points.
+m929a.txt: 151 data points.
+m929a.txt: 116 data points.
+m929a.txt: 183 data points.
+m929a.txt: 161 data points.
+m929a.txt: 127 data points.
+m929a.txt: 128 data points.
+m929a.txt: 103 data points.
+m929a.txt: 123 data points.
+m929a.txt: 99 data points.
+m929a.txt: 101 data points.
+m929a.txt: 81 data points.
+m929a.txt: 113 data points.
+m929a.txt: 112 data points.
+m929a.txt: 112 data points.
+m929a.txt: 104 data points.
+m929a.txt: 113 data points.
+m929a.txt: 112 data points.
+m929a.txt: 111 data points.
+m929a.txt: 113 data points.
+m929a.txt: 119 data points.
+m929a.txt: 117 data points.
+m929a.txt: 110 data points.
+m929a.txt: 107 data points.
+m929a.txt: 80 data points.
+m929a.txt: 90 data points.
+m929a.txt: 113 data points.
+m929a.txt: 82 data points.
+m929a.txt: 45 data points.
+m929a.txt: 113 data points.
+m929a.txt: 115 data points.
+m929a.txt: 122 data points.
+m929a.txt: 119 data points.
+m929a.txt: 126 data points.
+m929a.txt: 112 data points.
+m929a.txt: 57 data points.
+m929a.txt: 78 data points.
+
+
+---Score---
+Total: 74329.8
+
+---Penalties---
+      point:    57724.996
+    nomatch:      186.012
+      speed:      942.500
+speedchange:     5760.000
+        tie:        0.000
+        gap:     9716.268
+tie nomatch:        0.000
+-------------------------
+      Total:    74329.789
+Execution successful.

@@ -1,0 +1,39 @@
+head	1.1;
+access;
+symbols;
+locks
+	lisiecki:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2003.12.06.21.11.38;	author lisiecki;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@A
+r929a.txt
+B
+r929b.txt
+r929b2a.new
+r929ba.match
+C
+r929c.txt
+r929c2a.new
+rm929ca.match
+D
+r929d.txt
+r929d2a.new
+rm929da.match
+step 1
+@

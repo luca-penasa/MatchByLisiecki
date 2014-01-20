@@ -1,0 +1,39 @@
+Match 2.0 (Lisiecki and Lisiecki, 2002) 
+
+---Configuration---
+nomatch 10
+speedchange 0.15
+speedpenalty 0.15
+gappenalty 0.1
+gapsizemultiplier 37.0045
+tiepenalty 25
+reversetiepenalty 0
+begin1 0.09
+end1 109.32
+numintervals1 2000
+begin2 0
+end2 4042
+numintervals2 2000
+normbegin1 NaN
+normbegin2 NaN
+normend1 NaN
+normend2 NaN
+tiefile b806ltoLR04.tie
+series1gaps b806l_b806ltoLR04.gap
+#series2gaps is not set.
+matchfile b806ltoLR04.match
+#matrixfile is not set.
+logfile b806ltoLR04.log
+#mean1 is not set.
+#mean2 is not set.
+#stddev1 is not set.
+#stddev2 is not set.
+series1 b806l
+series2 LR04core
+speeds 3:1 5:2 2:1 5:3 3:2 4:3 5:4 1:1 4:5 3:4 2:3 3:5 1:2 2:5 1:3
+targetspeed 1:1
+
+---Series Information---
+b806l: 994 data points.
+
+Gap 2 does not alter series in b806l_b806ltoLR04.gap

@@ -1,0 +1,73 @@
+Match 2.0 (Lisiecki and Lisiecki, 2002) 
+
+---Configuration---
+nomatch 0.5
+speedchange 0.2
+speedpenalty 0.2
+gappenalty 100
+gapsizemultiplier 1.14673
+tiepenalty 1000
+reversetiepenalty 0
+begin1 0.032
+end1 4.462
+numintervals1 750
+begin2 0.02
+end2 5.1
+numintervals2 750
+normbegin1 NaN
+normbegin2 NaN
+normend1 NaN
+normend2 NaN
+tiefile MVtest.tie
+series1gaps MV05jc32b_MVtest.gap
+#series2gaps is not set.
+matchfile MVtest.match
+#matrixfile is not set.
+logfile MVtest.log
+#mean1 is not set.
+#mean2 is not set.
+#stddev1 is not set.
+#stddev2 is not set.
+series1 MV05jc32b
+series2 MV08jc14b
+speeds 4:1 3:1 5:2 2:1 5:3 3:2 4:3 5:4 1:1 4:5 3:4 2:3 3:5 1:2 2:5 1:3 1:4
+targetspeed 1:1
+
+---Series Information---
+MV05jc32b: 428 data points.
+
+MV08jc14b: 1095 data points.
+
+Tiepoints:
+0 0.166858
+0 0.710029
+0 0.846828
+1 1.19675
+1 1.45438
+1 1.63687
+1 1.94927
+2 2.28
+2 2.78
+2 3.13217
+3 3.50178
+3 3.56
+3 3.58
+3 3.75167
+3 3.78
+3 4.14
+4 4.52028
+
+---Score---
+Total: 20.9081
+
+---Penalties---
+      point:       10.052
+    nomatch:        0.147
+      speed:        2.508
+speedchange:        4.800
+        tie:        2.325
+        gap:        1.076
+tie nomatch:        0.000
+-------------------------
+      Total:       20.908
+Execution successful.
